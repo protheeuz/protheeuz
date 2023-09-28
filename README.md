@@ -1,7 +1,8 @@
 ### Orang Ganteng, Manis, Lucu & Intelek😄👋
 
 
-<img src="https://myreadme.vercel.app/api/embed/protheeuz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=protheeuz&theme=tokyonight" alt="mystreak"/>
+
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
