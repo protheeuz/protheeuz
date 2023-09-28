@@ -1,4 +1,4 @@
-### Hi there 👋
+### Orang Ganteng, Manis, Lucu & Intelek😄👋
 
 <!--
 **protheeuz/protheeuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
