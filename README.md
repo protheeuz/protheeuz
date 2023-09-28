@@ -1,7 +1,7 @@
 ### Orang Ganteng, Manis, Lucu & Intelek😄👋
 
 
-<img src="https://myreadme.vercel.app/api/embed/[protheeuz](https://github.com/protheeuz)?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/protheeuz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--
 **protheeuz/protheeuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
