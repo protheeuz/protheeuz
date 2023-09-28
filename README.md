@@ -3,6 +3,8 @@
 
 <img src="https://myreadme.vercel.app/api/embed/protheeuz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
 <!--
 **protheeuz/protheeuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
