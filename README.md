@@ -1,4 +1,4 @@
-### Orang Ganteng, Manis, Lucu & Intelek😄👋
+### Hi, I'm Iqbal👋
 
 
 
