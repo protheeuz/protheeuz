@@ -8,8 +8,7 @@
 
 
 
-- 🔭 I’m currently working on Dart, gin-gonic
-- 🌱 I’m currently learning Java
-- 💬 Ask me about anythings
-- 📫 How to reach me: iqbalfauzien@proton.me
+- 🔭 I’m currently working on Dart, gin-gonic, Courier by Gojek
+- 🌱 Java Enjoyers
+- 📫 iqbalfauzien@proton.me
 - ⚡ Fun fact: I'm obsessed with computers
