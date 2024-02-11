@@ -1,9 +1,6 @@
 ### Hi, I'm Iqbal👋
 
 
-</details>
-
-<a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" align="right" width="30%"></a>
 
 
 
