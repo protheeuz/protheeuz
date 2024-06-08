@@ -4,7 +4,7 @@
 
 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/7MXJUTd9YYht4eKKEONoub?si=30926aba33334242)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6DJ07Fx3muelmD233mudjK?si=39816ce496e54127)
 
 
 
