@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on Dart, gin-gonic, Courier by Gojek
+- 🔭 I’m currently working on Dart, gin-gonic
 - 🌱 Java Enjoyers
 - 📫 iqbalfauzien@proton.me
 - ⚡ Fun fact: I'm obsessed with computers
