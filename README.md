@@ -11,4 +11,4 @@
 
 - 🔭 I’m currently working on Dart, gin-gonic
 - 🌱 always learn Programming
-- 📫 How to reach me: echo "aXFiYWxmYXV6aWVuQGdtYWlsLmNvbQ==" | base64 --decode
+- 📫 How to reach me: `echo "aXFiYWxmYXV6aWVuQGdtYWlsLmNvbQ==" | base64 --decode`
