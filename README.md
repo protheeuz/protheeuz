@@ -9,7 +9,6 @@
 
 
 
-- 🔭 I’m currently working on Dart, gin-gonic
-- 🌱 Java Enjoyers
-- 📫 iqbalfauzien@proton.me
-- ⚡ Fun fact: I'm obsessed with computers
+🔭 I’m currently working on Dart, gin-gonic
+🌱 always learn Programming
+📫 How to reach me: echo "aXFiYWxmYXV6aWVuQGdtYWlsLmNvbQ==" | base64 --decode
