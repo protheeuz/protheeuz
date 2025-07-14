@@ -1,4 +1,4 @@
-<a href="#"><img src="URL_GAMBAR_ANDA" align="right" width="40%"></a>
+<a href="#"><img src="[meow](https://res.cloudinary.com/dsj3e4obt/image/upload/v1752468279/Screenshot_2025-07-14_111326_vn1lds.png)" align="right" width="40%"></a>
 
 ### Hi, I'm Iqbal👋
 I am creator of [Shimmer Alternative](https://pub.dev/packages/shimmer_alternative), [Local Storage Cache](https://pub.dev/packages/local_storage_cache), and [darturbation](https://github.com/mathtechstudio/darturbation).
