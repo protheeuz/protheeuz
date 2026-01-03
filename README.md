@@ -5,6 +5,6 @@ I am creator of [Shimmer Alternative](https://pub.dev/packages/shimmer_alternati
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/312jhimd3fjv2utzftuayfkl7bwa?si=642852a91dff4288)
 
-> 🔭 I'm currently working on Dart, bash, and gin-gonic
+> 🔭 I'm currently working on Dart, Lua, bash, and gin-gonic
 
 > 📫 How to reach me: `echo "aXFiYWxmYXV6aWVuQGdtYWlsLmNvbQ==" | base64 --decode`
